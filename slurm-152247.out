@@ -1,0 +1,19 @@
+Threads are 0-indexed with the master thread as thread 0.
+Total number of threads: 16
+Hello from 0 of 16.
+Hello from 7 of 16.
+Hello from 8 of 16.
+Hello from 9 of 16.
+Hello from 10 of 16.
+Hello from 11 of 16.
+Hello from 12 of 16.
+Hello from 13 of 16.
+Hello from 14 of 16.
+Hello from 15 of 16.
+Hello from 6 of 16.
+Hello from 5 of 16.
+Hello from 4 of 16.
+Hello from 3 of 16.
+Hello from 2 of 16.
+Hello from 1 of 16.
+Execution time: 0.000439966 seconds.
